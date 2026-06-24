@@ -1,6 +1,6 @@
 # Print Server i konfigurisanje Print servera na Windows Server 2019 u VirtualBox okruženju
 ## Šta je ovo?
-Ovo je vežba za administratore računarskih mreža koju sam radio tokom mog školovanja. Pocetnja stanja i potrebne fajlove nisam u mogucnosti da obezbedim, ali za ovo će Vam sigurno biti potreban VirtualBox, Windows Server 2019 .iso fail, Windows 10 .iso fajl. Zadak Vam je dat, kao i uputstvo za njegovo rešavanje. Ukoliko Vam nešto nije jasno tokom rešavanja ovih zadataka obratite mi se direktnom porukom na aplikaciji LinkedIn, www.linkedin.com/in/nikola-karanović-397185390
+Ovo je vežba za administratore računarskih mreža koju sam radio tokom mog školovanja. Pocetnja stanja i potrebne fajlove nisam u mogucnosti da obezbedim, ali za ovo će Vam sigurno biti potreban VirtualBox, Windows Server 2019 .iso fail, Windows 10 .iso fajl, Linux distribucija po ukusu, mi smo radili sa OpenSuse. Zadak Vam je dat, kao i uputstvo za njegovo rešavanje. Ukoliko Vam nešto nije jasno tokom rešavanja ovih zadataka obratite mi se direktnom porukom na aplikaciji LinkedIn, www.linkedin.com/in/nikola-karanović-397185390
 
 ## Pitanja i odgovori — Print Server na Windows Server 2019
 
